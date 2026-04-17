@@ -1,0 +1,6 @@
+These libraries cover:
+
+Data handling → pandas
+Statistical plots → seaborn
+Basic plotting → matplotlib
+Interactive dashboards → plotly
